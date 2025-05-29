@@ -1,0 +1,23 @@
+LABS OBJECTIVES TO COMPLETION
+Utilise spring framework, spring boot, and spring MVC
+Use Inversion of Control (IoC) container and Dependency Injection (DI) to manage application components.
+Containarize the application using docker.
+
+
+
+
+
+
+
+
+
+
+
+
+
+LABS LEARNING OBJECTIVES
+Understand purpose & architecture of the Spring Framework.
+Implement DI using Sprint IoC.
+Build and run Spring Boot application from scratch.
+Create RESTful APIs using spring MVC and test using Postman.
+Package and run Spring Boot application inside a Docker container.
